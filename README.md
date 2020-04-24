@@ -1,7 +1,12 @@
 # BT5153_project
 ### NUS MSBA BT5153 Spring 2020 
 ### Final Group Project by Team Three
-
+Team members:
+1. A0206505N
+2. A0206640N
+3. A0026883X
+4. A0101842U
+5. A0206459Y
 
 #### Notebooks
 - ipynb can be executed in numerical sequence to produce the respective datasets and files.
