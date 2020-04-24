@@ -4,7 +4,8 @@
 
 
 #### Notebooks
-- ipynb can be executed in numerical sequence to regenerate the respective datasets and files.
+- ipynb can be executed in numerical sequence to produce the respective datasets and files.
+- ipynb titles are describe their content
 
 
 #### Data
