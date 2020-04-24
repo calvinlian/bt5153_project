@@ -15,4 +15,4 @@
 
 
 #### Misc
-- 3 keras-fastText-CNN.ipynb requires fastText pretrained embedding. File can be downloaded from this link:  <https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip>
+- 4 keras-fastText-CNN.ipynb requires fastText pretrained embedding. File can be downloaded from this link:  <https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip>
