@@ -9,7 +9,7 @@
 
 
 #### Data
-- None of the data was truncated to meet 30MB file size limited
+- None of the data was truncated to meet 30MB file size limit
 - kaggleRawUncleaned is downloaded from <https://www.kaggle.com/edqian/twitter-climate-change-sentiment-dataset>
 - kaggleTweets_cleaned is the cleaned output from ipynb 1a and 1b
 
